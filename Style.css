@@ -1,0 +1,43 @@
+body{
+    background-color:rgb(185, 37, 214);
+    color: white;
+    font-size: 22px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-weight: bold;
+  }
+  #camera,#result{
+  border: 3px dashed black;
+  box-shadow: 1px 1px grey;
+  width: 350px;
+  height: 300px;
+  }
+  span{
+    font-size: 30px;
+    color: rgb(14, 240, 52);
+  }
+  .gesture_name{
+    font-size: 40px;
+    text-align: center;
+  }
+  .gesture{
+    font-size: 48px;
+  }
+  .heading{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 5px;
+  }
+  label{
+    font-size: 14px;
+    color: green;
+    padding: 6px;
+    border-radius: 10px;
+  background-color: white;
+  }
+  #result{
+    text-align: right;
+  }
+  
